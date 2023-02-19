@@ -1,0 +1,6 @@
+hi:chao
+you:ban
+me:toi
+cat:meo
+cow:bo
+dog:cho
